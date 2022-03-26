@@ -264,7 +264,7 @@ shadowsocks苹果客户端经常会被App Store下架，可以在App Store搜索
 # 使用效果
 
 
-![VPN搭建教程](https://user-images.githubusercontent.com/98797623/152301311-ab98b364-d0c3-4eac-a97a-f2d66168bf3e.png)
+![022翻墙科学上网、免费翻墙、免费科学上网、免费自由上网、fanqiang、翻墙梯子、免费软件/方法，一键翻墙浏览器，shadowsocks/ss/ssr/v2ray/goflyway账号/节点，vps一键搭建翻墙服务器脚本/教程，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙 一键脚本搭建SS个人VPN搭建翻墙科学上网SSR加速服务并开启BBR教程免费机场 ](https://user-images.githubusercontent.com/98797623/152301311-ab98b364-d0c3-4eac-a97a-f2d66168bf3e.png)
 
 
 
